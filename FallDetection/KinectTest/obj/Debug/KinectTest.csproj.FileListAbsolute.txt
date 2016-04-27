@@ -1,0 +1,31 @@
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\obj\Debug\KinectTest.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\obj\Debug\KinectTest.MainForm.resources
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.GenerateResource.Cache
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\bin\Debug\KinectTest.exe.config
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\bin\Debug\KinectTest.exe
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\bin\Debug\KinectTest.pdb
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\obj\Debug\KinectTest.exe
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\obj\Debug\KinectTest.pdb
+D:\Documentos\SharpDevelop Projects\KinectTest\KinectTest\bin\Debug\irrKlang.NET4.dll
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\bin\Debug\KinectTest.exe.config
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\obj\Debug\KinectTest.exe
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\obj\Debug\KinectTest.pdb
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\bin\Debug\KinectTest.exe
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\bin\Debug\KinectTest.pdb
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\obj\Debug\KinectTest.csprojResolveAssemblyReference.cache
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\obj\Debug\KinectTest.MainForm.resources
+C:\Users\Renan\Desktop\Realidade Aumentada\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.GenerateResource.Cache
+E:\Dropbox\__UTFPR-CP__\Período 8\IHC\Trabalho 05 - Kinect\KinectTest\KinectTest\bin\Debug\KinectTest.exe.config
+E:\Dropbox\__UTFPR-CP__\Período 8\IHC\Trabalho 05 - Kinect\KinectTest\KinectTest\obj\Debug\KinectTest.exe
+E:\Dropbox\__UTFPR-CP__\Período 8\IHC\Trabalho 05 - Kinect\KinectTest\KinectTest\obj\Debug\KinectTest.pdb
+E:\Dropbox\__UTFPR-CP__\Período 8\IHC\Trabalho 05 - Kinect\KinectTest\KinectTest\obj\Debug\KinectTest.csprojResolveAssemblyReference.cache
+E:\Dropbox\__UTFPR-CP__\Período 8\IHC\Trabalho 05 - Kinect\KinectTest\KinectTest\obj\Debug\KinectTest.MainForm.resources
+E:\Dropbox\__UTFPR-CP__\Período 8\IHC\Trabalho 05 - Kinect\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.GenerateResource.Cache
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\bin\Debug\KinectTest.exe.config
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\obj\Debug\KinectTest.exe
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\obj\Debug\KinectTest.MainForm.resources
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.GenerateResource.Cache
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\bin\Debug\KinectTest.exe
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\bin\Debug\KinectTest.pdb
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\obj\Debug\KinectTest.pdb
+E:\Dropbox\__UTFPR-CP__\Período 8.5\Oficina de Integração 1\KinectTest\KinectTest\obj\Debug\KinectTest.csprojResolveAssemblyReference.cache
